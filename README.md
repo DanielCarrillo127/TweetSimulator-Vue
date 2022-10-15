@@ -15,4 +15,5 @@ yarn serve
 yarn build
 ```
 Code with 🤍 by DanielCarrillo127
+
 Credits: this project was copied from a udemy course for learning purposes
